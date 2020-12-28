@@ -1,2 +1,2 @@
 # ImgHosting
-自建图床
+ppp组自建图床
